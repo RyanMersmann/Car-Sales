@@ -26,18 +26,18 @@ This project was put together using create-react-app (CRA). You will not need to
 - [done] Add your team lead as collaborator on Github.
 - [done] Clone your OWN version of the repository in your terminal.
 - [done] Download project dependencies by running `npm install`.
-- [ ] Add the dependencies you will need to implement Redux, using **npm**.
-- [] Start up the app using `npm start`.
+- [done] Add the dependencies you will need to implement Redux, using **npm**.
+- [done] Start up the app using `npm start`.
 - [done] Create a new branch: git checkout -b `<firstName-lastName>`.
       Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [done] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge Branch into master (student's Repository).
-- [ ] Add your team lead as a reviewer on the pull-request
-- [ ] Your team lead will count the project as complete by merging the branch back into master.
-- [ ] Do your magic!
+- [done] Submit a Pull-Request to merge Branch into master (student's Repository).
+- [done] Add your team lead as a reviewer on the pull-request
+- [done] Your team lead will count the project as complete by merging the branch back into master.
+- [done] Do your magic!
 
 # _Project - Car Sales_
 
